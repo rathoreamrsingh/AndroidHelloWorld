@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onPause() {
         super.onPause();
         Log.d(Tag,"Inside on pause");
+
     }
 
     @Override
